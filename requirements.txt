@@ -1,0 +1,7 @@
+logging==0.11.0
+numpy==1.24.3
+torch==2.0.0
+transformers==4.25.1
+knowledge-base-connector>=1.0.0
+risk-assessment-module>=1.0.0
+market-data-feeder>=1.0.0
