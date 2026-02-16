@@ -1,0 +1,5 @@
+framework:
+  logging:
+    level: INFO
+    file: monetization_framework.log
+    format: "%(asctime)s - %(name)s - %(levelname)s -
